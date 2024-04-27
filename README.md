@@ -15,7 +15,7 @@
 </p>
 <br/>
 
-## How to use
+## • How to use
 
 1. Accept the quest under User Settings -> Gift Inventory.
 2. Join a VC Channel.
