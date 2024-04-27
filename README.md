@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-	<a href="#•-how-to-use">Instructions</a> •
+	<a href="#-how-to-use">Instructions</a> •
 	<a href="#important">IMPORTANT</a> •
 	<a href="#faq">FAQ</a> •
 	<a href="https://discord.gg/">Discord server</a>
