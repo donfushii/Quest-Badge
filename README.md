@@ -9,8 +9,8 @@
 
 <p align="center">
 	<a href="#-how-to-use">Instructions</a> •
-	<a href="#important">IMPORTANT</a> •
-	<a href="#faq">FAQ</a> •
+	<a href="#-important">IMPORTANT</a> •
+	<a href="#-faq">FAQ</a> •
 	<a href="https://discord.gg/">Discord server</a>
 </p>
 <br/>
@@ -61,14 +61,14 @@ if(!quest) {
 7. Keep the stream running for 15 minutes.
 8. You can now claim the reward in User Settings -> Gift Inventory!
 
-## IMPORTANT
+## • IMPORTANT
 - Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it
 - You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by reopening the Gift Inventory tab in settings. The progress should update every 30s.
 - [ You need an alt account watching your stream for this to work. ]
 
-## FAQ
+## • FAQ
 
-**Q: Ctrl + Shift + I   doesn't work**
+**Q: `Ctrl + Shift + I` Doesn't work**
 
 A: Press <kbd>Win</kbd> + <kbd>R</kbd>, Type `%appdata%\discord`... Look for the `settings.json` file and open it in notepad.
 At the top of the file, under the open curly brace you need to add `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,`
