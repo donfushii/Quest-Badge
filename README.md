@@ -85,3 +85,6 @@ So you file should be
 
 After that, save the file, open your task manager... <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Escape</kbd> and close Discord.
 Open Discord again and you should now be able to press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>.
+
+
+- And yeah... It works on mobile but you need Kiwi Browser.
