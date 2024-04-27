@@ -9,8 +9,8 @@
 
 <p align="center">
 	<a href="#how-to-use">Instructions</a> •
+	<a href="#important">IMPORTANT</a> •
 	<a href="#faq">FAQ</a> •
-  <a href="#alert">IMPORTANT</a> •
 	<a href="https://discord.gg/">Discord server</a>
 </p>
 <br/>
@@ -61,7 +61,8 @@ if(!quest) {
 7. Keep the stream running for 15 minutes.
 8. You can now claim the reward in User Settings -> Gift Inventory!
 
-## Alert
+## IMPORTANT
+- Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it
 - You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by reopening the Gift Inventory tab in settings. The progress should update every 30s.
 - [ You need an alt account watching your stream for this to work. ]
 
@@ -84,8 +85,3 @@ So you file should be
 
 After that, save the file, open your task manager... <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Escape</kbd> and close Discord.
 Open Discord again and you should now be able to press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>.
-
-
-**Q: I get an error saying "Unauthorized"**
-
-A: Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it
