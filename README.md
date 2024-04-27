@@ -19,10 +19,10 @@
 
 1. Accept the quest under User Settings -> Gift Inventory.
 2. Join a VC Channel.
-3. Stream any window (Can be notepad, etc).
+3. Stream any window (can be notepad, etc).
 4. Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> to open DevTools.
 5. Go to the `Console` TAB.
-6. Paste the following code and hit enter:
+6. Paste the following code and hit enter:  (type first `allow pasting` If it doesn't let you paste the code).
 
 ```js
 let wpRequire;
@@ -59,7 +59,7 @@ if(!quest) {
 ```
 
 7. Keep the stream running for 15 minutes.
-8. You can now claim the reward in User Settings -> Gift Inventory!
+8. You can now claim the reward in User Settings -> Gift Inventory.
 
 ## • IMPORTANT
 1. Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it
