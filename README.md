@@ -64,7 +64,7 @@ if(!quest) {
 ## • IMPORTANT
 1. Discord has patched the script from working in browsers. Use the desktop app, or alternatively find some extension which lets you change your User-Agent and append the string `Electron/` anywhere in it
 2. You can track the progress by looking at the `Quest progress:` prints in the Console tab, or by reopening the Gift Inventory tab in settings. The progress should update every 30s.
-3. [ You need an alt account watching your stream for this to work. ]
+3. You need an alt account watching your stream for this to work.
 
 ## • FAQ
 
