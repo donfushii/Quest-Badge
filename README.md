@@ -4,7 +4,7 @@
 
 <h4 align="center">GENSHIN IMPACT DISCORD BADGE</h4>
 <p align="center">
-	V4.6  |  Credits to aamiaa.
+	V4.6
 </p>
 
 <p align="center">
